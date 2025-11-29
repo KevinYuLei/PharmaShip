@@ -20,10 +20,10 @@ PharmaShip contains scanned documents with complex tabular layouts, stamps, and 
 
 | Task / View                                                                                            | Visualization                                                                 |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| **Token-level Annotation** `<br>`(Visualization of token-level ground truth)                   | ![Token Level Annotation](pics/example/aonuo_char.jpg)                          |
-| **Entity-level Annotation** `<br>`(Semantic entities annotated at the segment level)           | ![Entity Level Annotation](pics/example/aonuo_entity.jpg)                       |
-| **Relation Extraction (RE)**`<br>`(Linkage between entities, e.g., Question-Answer pairs)      | ![Relation Extraction](pics/example/aonuo_link.jpg)                             |
-| **Reading Order Prediction (ROP)**`<br>`(DAG-based reading order based on relation extraction) | ![Reading Order</code></code></code></code>](pics/example/aonuo_segment_ro.jpg) |
+| **Token-level Annotation** <br>(Visualization of token-level ground truth)                   | ![Token Level Annotation](pics/example/aonuo_char.jpg)                          |
+| **Entity-level Annotation** <br>(Semantic entities annotated at the segment level)           | ![Entity Level Annotation](pics/example/aonuo_entity.jpg)                       |
+| **Relation Extraction (RE)**<br>(Linkage between entities, e.g., Question-Answer pairs)      | ![Relation Extraction](pics/example/aonuo_link.jpg)                             |
+| **Reading Order Prediction (ROP)**<br>(DAG-based reading order based on relation extraction) | ![Reading Order</code></code></code></code>](pics/example/aonuo_segment_ro.jpg) |
 
 ### Dataset Statistics
 
