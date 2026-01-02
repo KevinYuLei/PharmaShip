@@ -53,22 +53,36 @@ You can download the full PharmaShip dataset from the link below:
 
 🔗 [**Download PharmaShip Dataset**](https://1drv.ms/u/c/f06402be9f91dc9e/EY6Xzr0c3fVIpb93RidI0NoBfRG3WyrdufkR_7Cv3Y2Hpw)
 
+Now the PharmaShip dataset is hosted on Hugging Face. You can access the repository here:
+
+🔗 [**Hugging Face Dataset: YuLeiKevin/PharmaShip**](https://huggingface.co/datasets/YuLeiKevin/PharmaShip)
+
+You can also load the dataset directly using the Hugging Face `datasets` library:
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("YuLeiKevin/PharmaShip")
+```
+
 **Note:** The PharmaShip dataset can only be used for non-commercial research purpose.
 
-<!-- ### Citation
+### Citation
 
 If you find this dataset helpful for your research, please cite our paper:
 
 ```
-@inproceedings{pharmaship2024,
-  title={PharmaShip: An Entity-Centric, Reading-Order-Supervised Benchmark for Chinese Pharmaceutical Shipping Documents},
-  author={Tingwei Xie, Tianyi Zhou, Yonghong Song},
-  booktitle={Proceedings of IEEE Conference},
-  year={2024},
-  note={To be updated}
+@misc{xie2025pharmashipentitycentricreadingordersupervisedbenchmark,
+      title={PharmaShip: An Entity-Centric, Reading-Order-Supervised Benchmark for Chinese Pharmaceutical Shipping Documents}, 
+      author={Tingwei Xie and Tianyi Zhou and Yonghong Song},
+      year={2025},
+      eprint={2512.23714},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.23714}, 
 }
 ```
--->
+
 
 ### Contact
 
