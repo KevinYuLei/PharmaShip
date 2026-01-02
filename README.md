@@ -1,5 +1,7 @@
 # PharmaShip: An Entity-Centric, Reading-Order-Supervised Benchmark for Chinese Pharmaceutical Shipping Documents
 
+🔗 **Paper:** [https://arxiv.org/abs/2512.23714](https://arxiv.org/abs/2512.23714)
+
 ### Description
 
 **PharmaShip** is a real-world Chinese dataset of scanned pharmaceutical shipping documents designed to stress-test pre-trained text-layout models under noisy OCR and heterogeneous templates.
