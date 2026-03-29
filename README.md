@@ -69,6 +69,17 @@ dataset = load_dataset("YuLeiKevin/PharmaShip")
 
 **Note:** The PharmaShip dataset can only be used for non-commercial research purpose.
 
+
+### Privacy and Ethical Considerations
+All images in the PharmaShip dataset have been strictly anonymized. Personally identifiable information (PII) and sensitive commercial data have been redacted and replaced with placeholders (e.g., *) to protect privacy and comply with data protection regulations.
+
+
+### License
+PharmaShip is released under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+
+You are free to Share (copy and redistribute the material in any medium or format) and Adapt (remix, transform, and build upon the material) for academic and non-commercial research purposes, provided you give appropriate credit to the original authors.
+
+
 ### Citation
 
 If you find this dataset helpful for your research, please cite our paper:
